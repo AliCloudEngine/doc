@@ -1,3 +1,4 @@
 com.alibaba.appengine.api.cache
 com.alibaba.appengine.api.fetchurl
+com.alibaba.appengine.api.mail
 com.alibaba.appengine.api.store
