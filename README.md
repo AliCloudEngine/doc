@@ -1,12 +1,21 @@
 ACE文档
 ===========================
 
-- ACE用户开发文档：<http://ace.aliapp.com/>
-- 当前版本的Java SDK API文档：<http://alicloudengine.github.io/doc/apidocs>
-
+- ACE产品文档：<https://help.aliyun.com/product/8314992_ace.html>
+- SDK文档：
+    - Java <https://help.aliyun.com/document_detail/ace/sdk/java/intro.html>
+    - PHP <https://help.aliyun.com/document_detail/ace/sdk/php/intro.html>
+    - NodeJS <https://help.aliyun.com/document_detail/ace/sdk/nodejs/cache.html>
+    - Python <https://help.aliyun.com/document_detail/ace/sdk/python/preface.html>
+- OpenAPI文档： <https://help.aliyun.com/document_detail/ace/openapi/brief-introduction.html>
 
 ACE Documents
 ===========================
 
-- ACE User developer document: <http://ace.aliapp.com/>
-- Current version Java SDK API document：<http://alicloudengine.github.io/doc/apidocs>
+- ACE Product Documents: <https://help.aliyun.com/product/8314992_ace.html>
+- SDK Documents:
+    - Java <https://help.aliyun.com/document_detail/ace/sdk/java/intro.html>
+    - PHP <https://help.aliyun.com/document_detail/ace/sdk/php/intro.html>
+    - NodeJS <https://help.aliyun.com/document_detail/ace/sdk/nodejs/cache.html>
+    - Python <https://help.aliyun.com/document_detail/ace/sdk/python/preface.html>
+- OpenAPI Documents: <https://help.aliyun.com/document_detail/ace/openapi/brief-introduction.html>
